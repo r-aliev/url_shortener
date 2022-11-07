@@ -1,0 +1,105 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="91">
+            <item index="0" class="java.lang.String" itemvalue="graphql-relay" />
+            <item index="1" class="java.lang.String" itemvalue="greenlet" />
+            <item index="2" class="java.lang.String" itemvalue="html5lib" />
+            <item index="3" class="java.lang.String" itemvalue="nltk" />
+            <item index="4" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="5" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="6" class="java.lang.String" itemvalue="promise" />
+            <item index="7" class="java.lang.String" itemvalue="kombu" />
+            <item index="8" class="java.lang.String" itemvalue="graphene-django" />
+            <item index="9" class="java.lang.String" itemvalue="appdirs" />
+            <item index="10" class="java.lang.String" itemvalue="premailer" />
+            <item index="11" class="java.lang.String" itemvalue="django-countries" />
+            <item index="12" class="java.lang.String" itemvalue="contextlib2" />
+            <item index="13" class="java.lang.String" itemvalue="certifi" />
+            <item index="14" class="java.lang.String" itemvalue="stripe" />
+            <item index="15" class="java.lang.String" itemvalue="docutils" />
+            <item index="16" class="java.lang.String" itemvalue="lxml" />
+            <item index="17" class="java.lang.String" itemvalue="gevent" />
+            <item index="18" class="java.lang.String" itemvalue="ipaddr" />
+            <item index="19" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="20" class="java.lang.String" itemvalue="Markdown" />
+            <item index="21" class="java.lang.String" itemvalue="pytoml" />
+            <item index="22" class="java.lang.String" itemvalue="vine" />
+            <item index="23" class="java.lang.String" itemvalue="xlrd" />
+            <item index="24" class="java.lang.String" itemvalue="fuzzywuzzy" />
+            <item index="25" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="26" class="java.lang.String" itemvalue="aniso8601" />
+            <item index="27" class="java.lang.String" itemvalue="py-moneyed" />
+            <item index="28" class="java.lang.String" itemvalue="graphql-core" />
+            <item index="29" class="java.lang.String" itemvalue="asgiref" />
+            <item index="30" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="31" class="java.lang.String" itemvalue="django-reversion" />
+            <item index="32" class="java.lang.String" itemvalue="boto3" />
+            <item index="33" class="java.lang.String" itemvalue="django-mptt" />
+            <item index="34" class="java.lang.String" itemvalue="django-filter" />
+            <item index="35" class="java.lang.String" itemvalue="pdf2image" />
+            <item index="36" class="java.lang.String" itemvalue="cssselect" />
+            <item index="37" class="java.lang.String" itemvalue="retrying" />
+            <item index="38" class="java.lang.String" itemvalue="graphene-permissions" />
+            <item index="39" class="java.lang.String" itemvalue="djoser" />
+            <item index="40" class="java.lang.String" itemvalue="distlib" />
+            <item index="41" class="java.lang.String" itemvalue="CacheControl" />
+            <item index="42" class="java.lang.String" itemvalue="msgpack" />
+            <item index="43" class="java.lang.String" itemvalue="idna" />
+            <item index="44" class="java.lang.String" itemvalue="distro" />
+            <item index="45" class="java.lang.String" itemvalue="geopy" />
+            <item index="46" class="java.lang.String" itemvalue="pep517" />
+            <item index="47" class="java.lang.String" itemvalue="pycurl" />
+            <item index="48" class="java.lang.String" itemvalue="python-Levenshtein" />
+            <item index="49" class="java.lang.String" itemvalue="django-bulk-update" />
+            <item index="50" class="java.lang.String" itemvalue="django-storages" />
+            <item index="51" class="java.lang.String" itemvalue="numpy" />
+            <item index="52" class="java.lang.String" itemvalue="requests" />
+            <item index="53" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="54" class="java.lang.String" itemvalue="graphene" />
+            <item index="55" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="56" class="java.lang.String" itemvalue="celery" />
+            <item index="57" class="java.lang.String" itemvalue="zipp" />
+            <item index="58" class="java.lang.String" itemvalue="geographiclib" />
+            <item index="59" class="java.lang.String" itemvalue="urllib3" />
+            <item index="60" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="61" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="62" class="java.lang.String" itemvalue="billiard" />
+            <item index="63" class="java.lang.String" itemvalue="six" />
+            <item index="64" class="java.lang.String" itemvalue="botocore" />
+            <item index="65" class="java.lang.String" itemvalue="django-celery-results" />
+            <item index="66" class="java.lang.String" itemvalue="amqp" />
+            <item index="67" class="java.lang.String" itemvalue="Rx" />
+            <item index="68" class="java.lang.String" itemvalue="pytesseract" />
+            <item index="69" class="java.lang.String" itemvalue="packaging" />
+            <item index="70" class="java.lang.String" itemvalue="cssutils" />
+            <item index="71" class="java.lang.String" itemvalue="xlsxwriter" />
+            <item index="72" class="java.lang.String" itemvalue="toml" />
+            <item index="73" class="java.lang.String" itemvalue="django_celery_beat" />
+            <item index="74" class="java.lang.String" itemvalue="singledispatch" />
+            <item index="75" class="java.lang.String" itemvalue="chardet" />
+            <item index="76" class="java.lang.String" itemvalue="jmespath" />
+            <item index="77" class="java.lang.String" itemvalue="pandas" />
+            <item index="78" class="java.lang.String" itemvalue="lockfile" />
+            <item index="79" class="java.lang.String" itemvalue="django-money" />
+            <item index="80" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="81" class="java.lang.String" itemvalue="Unidecode" />
+            <item index="82" class="java.lang.String" itemvalue="colorama" />
+            <item index="83" class="java.lang.String" itemvalue="Django" />
+            <item index="84" class="java.lang.String" itemvalue="django-js-asset" />
+            <item index="85" class="java.lang.String" itemvalue="cachetools" />
+            <item index="86" class="java.lang.String" itemvalue="progress" />
+            <item index="87" class="java.lang.String" itemvalue="pytz" />
+            <item index="88" class="java.lang.String" itemvalue="webencodings" />
+            <item index="89" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="90" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

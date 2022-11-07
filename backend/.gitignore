@@ -1,0 +1,24 @@
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+
+# Compiled files
+__pycache__
+*.pyc
+
+# Media folder
+media
+
+.idea/
+
+venv/
+
+.env
+
+.vscode/
+
+*.ipynb
+
+backend/static/**
