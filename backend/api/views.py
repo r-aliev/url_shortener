@@ -34,8 +34,7 @@ def add_url(request):
         URLMapper.objects.create(original_url=original_url, shortened_url=shortened_url)
         return Response("URL shortened successfully!")
 
-
-@api_view(['GET'])
+# TODO: manage errors
 def redirect_to_url(request, slug):
     """An endpoint to redirect shortened urls to original urls."""
     shortened_url = request.build_absolute_uri("/" + slug)
