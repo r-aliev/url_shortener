@@ -1,8 +1,5 @@
 # URL shortener
 
-### Notes for interviewers
-I am a slow person, so as you can see I didn't accomplish to fully finish the project.
-
 Backend is built using Django, Django Rest Framework.
 Frontend is build using React.js.
 
